@@ -1,0 +1,7 @@
+[package]
+name = "clap-experiment"
+version = "0.1.0"
+authors = ["Ronny Gärtner <ronny.gaertner@sinnerschrader.com>"]
+
+[dependencies]
+clap = "2.29.0"
